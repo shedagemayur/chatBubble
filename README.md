@@ -1,7 +1,7 @@
 # chatBubble
 
-1. The chat bubble style like facebook with message grouping.
-2. You just need to passed the array of object to the closure function to get result.
+The chat bubble style like facebook with message grouping.
+You just need to passed the array of object to the closure function to get result.
 For eg.,
 
 let chats = [
@@ -27,4 +27,4 @@ let chats = [
     { id: 12, message: 'Nice buddy', self: 0 }
 ];
 
-3. ![alt text](https://github.com/shedagemayur/chatBubble/blob/master/chatbibble.PNG)
+![alt text](https://github.com/shedagemayur/chatBubble/blob/master/chatbibble.PNG)
