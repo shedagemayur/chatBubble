@@ -27,3 +27,4 @@ let chats = [
     { id: 12, message: 'Nice buddy', self: 0 }
 ];
 
+![alt text](https://github.com/shedagemayur/chatBubble/blob/master/chatbibble.PNG)
